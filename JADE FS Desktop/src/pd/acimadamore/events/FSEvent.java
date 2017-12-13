@@ -1,0 +1,9 @@
+package pd.acimadamore.events;
+
+public enum FSEvent {
+  INITIALIZED,
+  REMOTE_DIRECTORY_ADDED,
+  REMOTE_DIRECTORY_REMOVED,
+  FILE_NOT_FOUND,
+  FILE_DOWNLOADED
+}

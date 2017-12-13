@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">JADE FS</string>
+    <string name="title_activity_file_sharing">FileSharingActivity</string>
+
+    <!-- TAB NAMES -->
+    <string name="shared_files_tab_title">Mis Archivos</string>
+    <string name="remote_files_tab_title">Archivos Remotos</string>
+
+    <!-- TOASTS -->
+    <string name="remote_directory_added_toast">Un agente se ha conectado</string>
+    <string name="remote_directory_removed_toast">Un agente se ha desconectado</string>
+    <string name="downloading_file_toast">Descargando archivo...</string>
+    <string name="file_downloaded_toast">Descarga finalizada</string>
+    <string name="file_not_found_toast">Archivo no encontrado</string>
+
+
+    <!-- Main Activity -->
+    <string name="form_hint">Ingrese la dirección IP y el puerto del Main Container de la plataforma JADE."</string>
+    <string name="agent_name">Nombre de usuario</string>
+    <string name="host_port">Puerto</string>
+    <string name="host_address">Dirección IP</string>
+    <string name="connect">Conectar</string>
+    <string name="blank_validation_error">No puede estar en Blanco</string>
+    
+    
+    <!-- FILE -->
+    <string name="in_this_device">En este dispositivo</string>
+
+</resources>
